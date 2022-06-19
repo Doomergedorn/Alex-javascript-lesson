@@ -44,4 +44,6 @@ class Person {
 let me = new Person('Pholosho');
 me.sayHello()
 
+const result = 20 % 5 //result === 0
+const reuslt = 20 % 7 //result === 6
 
